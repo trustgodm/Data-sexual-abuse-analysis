@@ -19,7 +19,9 @@ TO BE ABLE TO RUN THIS PROGRAM
 open it with jupyter notebook
 
 IF using visual studios
-
+git clone https://github.com/trustgodm/Data-sexual-abuse-analysis.git
+cd Data-sexual-abuse-analysis
+code .
 . install python
 .pip install jupyter
 .pip install pandas numpy matplotlib
