@@ -1,6 +1,6 @@
 # Data-sexual-abuse-analysis
 
-In this project we have a survey from Beginner and intermediate parents on the sexual abuse of their children.
+This project involves a survey conducted with beginner and intermediate parents regarding the sexual abuse of their children.
 
 The question that were asked are:
 1. Children are safe among family members such as grandparents, uncles, aunts, cousins
@@ -11,8 +11,8 @@ The question that were asked are:
 6. Do you think children need post abuse counseling for recovering?
 7. Do you think you should take legal action against the abuser of your child?
 
-I used ID3 algorithm from decision trees to check which questions are much more relevant to survey.
-They can be found inside the ipynb file along with thier analysis.
+Methodology:
+The ID3 algorithm from decision trees was used to determine which three questions are most relevant to the survey. The analysis and results can be found in the accompanying .ipynb file.
 
 TO BE ABLE TO RUN THIS PROGRAM
 
